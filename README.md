@@ -43,11 +43,6 @@ Both hands share the same mapping.
 
 ---
 
-## 🤝 Credits
-- [cvzone](https://github.com/cvzone/cvzone) – Hand detection  
-- [pygame.midi](https://www.pygame.org/docs/ref/midi.html) – MIDI interface  
-- [OpenCV](https://opencv.org/) – Real-time camera input  
-
 ---
 
 ## 📄 License
